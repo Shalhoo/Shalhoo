@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shalhoo
+- 👋 Hi, I’m Shalhoo
 - 👀 I’m interested in studying i guess everything i can reach
-- 🌱 I’m currently learning js/c++/ML/Python
-- 💞️ I’m looking for any challenges and courses to improve my skills
+- 🌱 Currently learning js/c++/ML/Python
+- 💞️ Looking for any challenges and courses to improve my skills
 - 📫 How to reach me shalhoo88@gmail.com
 
 <!---
