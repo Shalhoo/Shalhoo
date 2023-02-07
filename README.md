@@ -2,7 +2,7 @@ I am Shalhoo
 * Interested in studying i guess everything i can reach
 * Currently learning js/c++/ML/Python
 * Looking for any challenges and courses to improve my skills
-* How to reach me shalhoo88@gmail.com
+* How to reach me: shalhoo88@gmail.com
 
 <!---
 Shalhoo/Shalhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
